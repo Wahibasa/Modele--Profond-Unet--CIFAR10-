@@ -56,6 +56,3 @@ Dans ce projet, nous avons développé un modèle de **débruitage d’images** 
   3. Carte Grad-CAM indiquant les zones influentes  
   4. Image reconstruite par le modèle  
 - Cette analyse qualitative complète les métriques quantitatives et illustre la capacité du modèle à se concentrer sur les zones pertinentes.
-
-1](https://arxiv.org/abs/1610.02391)  
-- TensorFlow / Keras documentation
